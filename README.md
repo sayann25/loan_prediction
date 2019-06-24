@@ -1,7 +1,7 @@
 # loan_prediction
 predicting chances of defaulting installment
 
-#usage
+# usage
 ```bash
 python final_code.py
 ```
