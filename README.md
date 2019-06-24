@@ -1,5 +1,5 @@
 # loan_prediction
-predicting chances of defaulting installment
+predicting chances of defaulting installment. For more details, check the [documentation](documentation.pdf)
 
 # usage
 ```bash
